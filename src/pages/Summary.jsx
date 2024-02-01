@@ -29,7 +29,7 @@ const Summary = () => {
       <div className="container mx-auto mt-8  ">
         <h1 className="text-center p-8 font-bold text-2xl">Show Summary</h1>
         <div className="flex justify-evenly ">
-          <div className="w-7/12 flex gap-4 hover:shadow-2xl transition-all ease-in p-8 border-2 rounded-sm" >
+          <div className=" flex flex-col lg:w-7/12 lg:flex-row gap-4 hover:shadow-2xl transition-all ease-in p-8 border-2 rounded-sm" >
             <img
               src={show.image?.medium}
               alt={show.name}
