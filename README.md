@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 - 
 ## 🔗 Links
-https://curious-bavarois-1f0fd7.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e7c14554-8c53-4dd4-a0b1-ba7234166be8/deploy-status)](https://app.netlify.com/sites/curious-bavarois-1f0fd7/deploys)
 
