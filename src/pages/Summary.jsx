@@ -33,7 +33,7 @@ const Summary = () => {
             <img
               src={show.image?.medium}
               alt={show.name}
-              className="rounded-lg"
+              className="md:w-6/12 rounded-lg"
             />
             <div className=" ml-4">
               <h1 className="text-3xl font-bold mb-4">{show.name}</h1>
